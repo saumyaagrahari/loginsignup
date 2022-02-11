@@ -1,0 +1,23 @@
+[
+    {
+        "username": "kirti",
+        "password": "kirti@22",
+        "re_password": "kirti@22",
+        "date of birth": "2",
+        "gender": "f",
+        "hobbies": "sdfghj",
+        "description": "ertyui",
+        "contact number": 23456789
+    }
+][
+    {
+        "username": "saumya",
+        "password": "saumy@22",
+        "re_password": "saumy@22",
+        "date of birth": "4",
+        "gender": "f",
+        "hobbies": "sdfg",
+        "description": "sdfg",
+        "contact number": 23456789
+    }
+]
